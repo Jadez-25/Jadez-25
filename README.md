@@ -39,7 +39,7 @@ I'm passionate about building **secure and efficient systems** that simplify wor
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jadacropper)  
-- 📧 jada.cropper@icloud.com  
+- 📧 jadacropper24@gmail.com 
 
 ---
 
