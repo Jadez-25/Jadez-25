@@ -23,7 +23,7 @@ I'm passionate about building **secure and efficient systems** that simplify wor
 - 🔐 **Help Desk System** – ASP.NET & SQL Server internal tool for managing IT support tickets  
 - 📦 **Inventory/Stock Management App** – Resource tracking tool for administrative departments  
 - 📋 **Registry Portal** – Workflow improvement tool for staff, built with ASP.NET & SQL Server  
-- 🎮 **[Safety Circuit Challenge](https://github.com/Jadez-25/Escape-Room)** – Gamified escape room for workplace health & safety awareness
+- 🎮 **[The Safety Saga: Escape Edition](https://github.com/Jadez-25/Escape-Room)** – Gamified escape room for workplace health & safety awareness
 
 ---
 
